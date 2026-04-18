@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to Spoify");
 
 //Initialize the Variables
 
