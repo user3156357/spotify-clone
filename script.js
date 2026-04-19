@@ -10,16 +10,16 @@ let gif=document.getElementById("gif");
 let masterSongName=document.getElementById("masterSongName");
 let songItems= Array.from(document.getElementsByClassName("songItem"));
 let songs=[
-    {songName:"Tum se hi",filePath:"songs/1.mp3",coverPath:"covers/1.jpg"},
-    {songName:"Bekhayali",filePath:"songs/2.mp3",coverPath:"covers/2.jpg"},
-    {songName:"90's old ",filePath:"songs/3.mp3",coverPath:"covers/3.jpg"},
-    {songName:"Humsafar ",filePath:"songs/4.mp3",coverPath:"covers/4.jpg"},
-    {songName:"Manali Trance ",filePath:"songs/5.mp3",coverPath:"covers/5.jpg"},
-    {songName:"Soja Zara",filePath:"songs/6.mp3",coverPath:"covers/6.jpg"},
-    {songName:"Amplifier",filePath:"songs/7.mp3",coverPath:"covers/7.jpg"},
-    {songName:"Paris ka Trip",filePath:"songs/8.mp3",coverPath:"covers/8.jpg"},
-    {songName:"O-Maahi",filePath:"songs/9.mp3",coverPath:"covers/9.jpg"},
-    {songName:"O re piya",filePath:"songs/10.mp3",coverPath:"covers/10.jpg"},
+    {songName:"Song Name",filePath:"songs/1.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Song Name",filePath:"songs/2.mp3",coverPath:"covers/2.jpg"},
+    {songName:"Song Name",filePath:"songs/3.mp3",coverPath:"covers/3.jpg"},
+    {songName:"Song Name",filePath:"songs/4.mp3",coverPath:"covers/4.jpg"},
+    {songName:"Song Name",filePath:"songs/5.mp3",coverPath:"covers/5.jpg"},
+    {songName:"Song Name",filePath:"songs/6.mp3",coverPath:"covers/6.jpg"},
+    {songName:"Song Name",filePath:"songs/7.mp3",coverPath:"covers/7.jpg"},
+    {songName:"Song Name",filePath:"songs/8.mp3",coverPath:"covers/8.jpg"},
+    {songName:"Song Name",filePath:"songs/9.mp3",coverPath:"covers/9.jpg"},
+    {songName:"Song Name",filePath:"songs/10.mp3",coverPath:"covers/10.jpg"},
    
 ]
 
